@@ -1,0 +1,21 @@
+======== SALES REPORT ========
+Total Sales (excluding negatives): $2,481.86
+Total Sales (including negatives): $2,481.86
+Execution Time: 0.0010 seconds
+---------------------------------
+================================
+======== SALES REPORT ========
+Total Sales (excluding negatives): $172,388.21
+Total Sales (including negatives): $166,568.23
+Execution Time: 0.0010 seconds
+---------------------------------
+================================
+======== SALES REPORT ========
+Total Sales (excluding negatives): $171,055.35
+Total Sales (including negatives): $165,235.37
+Execution Time: 0.0010 seconds
+---------------------------------
+Errors:
+  - Invalid product: Elotes
+  - Invalid product: Frijoles
+================================
